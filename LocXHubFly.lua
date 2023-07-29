@@ -1,5 +1,5 @@
 local http_request = syn and syn.request or request;
-local hwidPaste = loadstring(game:HttpGet("https://raw.githubusercontent.com/dloc0403/main/hwid.txt"))()
+local hwidPaste = loadstring(game:HttpGet("https://raw.githubusercontent.com/dloc0403/blabla/main/hwid.txt"))()
 
 local body = http_request({Url = 'https://httpbin.org/get'; Method = 'GET'}).Body;
 local hwid = decoded['Syn-Fingerprint']
