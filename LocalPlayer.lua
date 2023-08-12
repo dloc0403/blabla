@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("[Loc X Hub] THE SCRIPTS CURRENTLY IN MAINTENANCE!")
+game.Players.LocalPlayer:Kick("[Loc X Hub] Server Down...")
